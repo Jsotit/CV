@@ -1,7 +1,7 @@
 # CV
 CV de Toorubally Osman , étudiant en BTS SIO au lycée Turgot
 ## Compétences
-J'ai skills en SSIR
+J'ai différent skills en SSIR
 ### Système
 Administration Windows Server, Active Directory
 Administration Linux (Ubuntu)
@@ -17,6 +17,10 @@ VOIP
 Plannification Réseau
 ### Economie Droit Management
 RGPD
+### Code
+HTML
+CSS
+BOOTSTRAP
 ### Langues
 Anglais B2
 
